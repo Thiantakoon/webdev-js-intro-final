@@ -35,7 +35,7 @@ Before you get started, think about the win and lose conditions of the game.
 
 All elements that will be referenced in `app.js` will have an id. Read through `index.html` and take note of which elements you will be referencing.
 
-If you get stuck, write psuedocode and break the game's functionality and logic into smaller pieces.
+If you get stuck, write pseudocode and break the game's functionality and logic into smaller pieces.
 
 - [ ] The span with the id of `guess-message` should output whether the guess is too high, too low, if the player won, or if the player lost.
 - [ ] The span with the id of `current-guess` should output the guess that was just submitted.
